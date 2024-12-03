@@ -1,0 +1,62 @@
+16:25:32.549 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:25:33.646 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+16:26:28.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+16:26:31.416 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:26:31.544 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+16:26:31.954 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+16:26:31.956 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+16:26:32.023 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+16:26:32.081 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+16:26:32.148 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+16:26:34.217 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+16:26:34.278 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+16:26:34.780 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+16:26:34.782 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+16:26:36.502 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:26:37.635 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+16:32:01.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+16:32:04.079 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:32:04.211 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+16:32:04.637 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+16:32:04.639 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+16:32:04.733 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+16:32:04.805 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+16:32:04.904 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+16:32:06.979 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+16:32:07.059 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+16:32:07.616 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+16:32:07.618 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+16:32:09.399 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:32:10.511 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+16:32:16.132 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:32:16.371 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+16:32:16.734 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+16:32:16.735 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+16:32:16.769 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+16:32:16.789 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+16:32:16.810 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+16:32:18.854 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+16:32:19.074 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+16:32:39.321 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+16:32:43.461 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:34:12.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+16:37:17.087 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:37:17.226 [main] ERROR testCases.TC001_AccountRegistration - Test Failed..
+16:37:17.544 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+18:40:28.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+18:43:33.589 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+18:43:33.821 [main] ERROR testCases.TC001_AccountRegistration - Test Failed..
+18:43:34.265 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+10:33:52.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+10:33:57.303 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+10:33:57.543 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****

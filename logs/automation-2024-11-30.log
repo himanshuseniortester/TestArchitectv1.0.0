@@ -1,0 +1,60 @@
+15:22:07.139 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+15:22:09.341 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+15:22:09.508 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+15:22:09.978 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+15:22:09.980 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+15:22:10.088 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+15:22:10.179 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+15:22:10.324 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+15:22:12.425 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+15:22:12.496 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+15:22:13.043 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+15:22:13.045 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+15:22:14.780 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+15:25:11.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+15:25:14.466 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+15:25:14.601 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+15:25:15.019 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+15:25:15.020 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+15:25:15.117 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+15:25:15.188 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+15:25:15.296 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+15:25:17.381 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+15:25:17.440 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+15:25:17.958 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+15:25:17.961 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+15:25:19.679 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:24:47.523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+16:24:50.903 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:24:51.049 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+16:24:51.451 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+16:24:51.453 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+16:24:51.590 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+16:24:51.684 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+16:24:51.738 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+16:24:53.808 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+16:24:53.875 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+16:24:54.407 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+16:24:54.409 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+16:24:56.286 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+16:24:57.486 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+16:25:25.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\grid-docker.xml
+
+16:25:27.492 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+16:25:27.610 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+16:25:27.988 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+16:25:27.990 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+16:25:28.071 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+16:25:28.127 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+16:25:28.199 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+16:25:30.272 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+16:25:30.339 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+16:25:30.857 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+16:25:30.859 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****

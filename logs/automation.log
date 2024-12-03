@@ -1,0 +1,52 @@
+10:33:58.342 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+10:33:58.352 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+10:33:58.481 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+10:33:58.571 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+10:33:58.704 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+10:34:00.827 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+10:34:00.912 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+10:34:01.866 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+10:34:01.869 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+10:34:04.083 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+10:34:05.711 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+11:37:27.442 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+11:37:31.389 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+11:37:31.534 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+11:37:32.100 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+11:37:32.102 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+11:37:32.201 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+11:37:32.281 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+11:37:32.364 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+11:37:34.464 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+11:37:34.559 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+11:37:35.247 [main] INFO  testCases.TC001_AccountRegistration - ****Account is created*****
+11:37:35.250 [main] INFO  testCases.TC001_AccountRegistration - ****Finished T001 Account Registration*****
+11:37:37.358 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
+11:37:38.693 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002 Login Test*****
+12:04:09.884 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+12:04:17.350 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+12:04:25.130 [main] ERROR testCases.TC001_AccountRegistration - Test Failed..
+12:11:14.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+12:12:35.143 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+19:44:28.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\TestArchitectv1.0.0\master.xml
+
+19:44:37.786 [main] INFO  testCases.TC001_AccountRegistration - ****Starting T001 Account Registration*****
+19:44:37.895 [main] INFO  testCases.TC001_AccountRegistration - ****click my  account*****
+19:44:38.263 [main] INFO  testCases.TC001_AccountRegistration - ****click on Register*****
+19:44:38.265 [main] INFO  testCases.TC001_AccountRegistration - ****set First Name*****
+19:44:38.347 [main] INFO  testCases.TC001_AccountRegistration - ****set Last Name*****
+19:44:38.415 [main] INFO  testCases.TC001_AccountRegistration - ****Set Email*****
+19:44:38.509 [main] INFO  testCases.TC001_AccountRegistration - ****Set Password*****
+19:44:40.589 [main] INFO  testCases.TC001_AccountRegistration - ****Enabled Policy*****
+19:44:40.671 [main] INFO  testCases.TC001_AccountRegistration - ****Click on Continue*****
+19:45:00.755 [main] ERROR testCases.TC001_AccountRegistration - Test Failed..
+19:45:04.952 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002 Login Test*****
